@@ -12,7 +12,7 @@
           <font-awesome :icon="['fab', 'css3-alt']"/>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'js-square']"/>
+          <font-awesome :icon="['fab', 'gridsome']"/>
         </li>
         <li class="list-inline-item">
           <font-awesome :icon="['fab', 'angular']"/>
@@ -27,7 +27,7 @@
           <font-awesome :icon="['fab', 'sass']"/>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'less']"/>
+          <font-awesome :icon="['fab', 'vue']"/>
         </li>
         <li class="list-inline-item">
           <font-awesome :icon="['fab', 'wordpress']"/>

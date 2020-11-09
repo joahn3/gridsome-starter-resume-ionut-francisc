@@ -1,11 +1,11 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
     <div v-on:click.prevent="$scrollTo('#about')" class="navbar-brand">
-      <span class="d-block d-lg-none">Loke Carlsson</span>
+      <span class="d-block d-lg-none">Ionuț Francisc</span>
       <span class="d-none d-lg-block">
         <g-image
           alt="Image of Loke"
-          src="../assets/images/profile.png"
+          src="../assets/images/ionut-francisc-profile.png"
           class="img-fluid img-profile rounded-circle mx-auto mb-2"
         />
       </span>

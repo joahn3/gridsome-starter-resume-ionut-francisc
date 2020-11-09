@@ -34,7 +34,7 @@ export default {
     Awards
   },
   metaInfo: {
-    title: "Gridsome Starter Resume",
+    title: "Ionuț Francisc Resume",
     titleTemplate: "%s - Create your resume quick and easy!"
   }
 };
